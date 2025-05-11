@@ -4,6 +4,6 @@ function mostrarFoto() {
 }
 
 function tocarMusica() {
-  const link = "https://www.youtube.com/watch?v=Mkf1IHBElMo"; // Substitua com o link real
+  const link = "https://www.youtube.com/watch?v=Mkf1IHBElMo"; // Substitua pelo link real
   window.open(link, "_blank");
 }

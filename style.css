@@ -1,4 +1,3 @@
-/* Fundo em vídeo */
 #bg-video {
   position: fixed;
   top: 0;
@@ -9,7 +8,6 @@
   z-index: -1;
 }
 
-/* Estilo do conteúdo */
 body {
   margin: 0;
   font-family: 'Georgia', serif;
